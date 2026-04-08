@@ -1,4 +1,4 @@
-# ai-shopping-app
+# ai-shopping-website
 AI Smart Shoping Website
 Team Name:Tech titans
 
@@ -25,7 +25,7 @@ Solution:
 · Filters products based on extracted user needs
 3. Intelligent Comparison
 · Compares prices, specs, and reviews across platforms.
-· Creates a unified comparison table (not multiple tabs).
+· Creates a unified comparison table .
 4. Fast Decision Making
 · Reduces decision time from 30+ minutes → under 10 seconds
 7. Clean Chat Interface
@@ -33,7 +33,7 @@ Solution:
 
 Key Features:
 1.AI chat-based assistant  
-2.Smart comparison (pros & cons)  
+2.Smart comparison.  
 3.Personalized recommendations  
 4.Fake review detection  
 5.Clean modern UI  
